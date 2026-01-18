@@ -98,7 +98,7 @@ From top_industries
 
 <div>
 
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -182,7 +182,7 @@ Order by num_unicorns DESC, average_valuation DESC
 <div>
 
 
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -570,7 +570,7 @@ Order by year DESC, num_unicorns DESC;
 
 <div>
 
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
